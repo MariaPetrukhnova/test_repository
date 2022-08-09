@@ -1,0 +1,22 @@
+.title {
+    color: navy;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.descr {
+    color: darkgray;
+    font-size: 18px;
+}
+.lorem {
+    color: #fff;
+    background-color: rgb(90, 44, 218);
+}
+.text_input{
+    border-radius: 2px;
+    border: solid gray; 
+}
+.btn {
+    border-radius: 2px;
+    border: none;
+    background-color: aqua;
+    color: #fff;
+}
